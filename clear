@@ -1,0 +1,48 @@
+[33mcommit 2f70ae9afe0b08fd1da3fb296969f2501dca9a00[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/add-css[m[33m)[m
+Merge: bf29616 eb6d129
+Author: Vivid Quill <sjdoublec@gmail.com>
+Date:   Wed May 24 13:25:59 2023 -0500
+
+    changes
+
+[33mcommit bf29616e4b5915b72dd5fa9f02bc6e81effc1a84[m[33m ([m[1;31morigin/feature/add-css[m[33m)[m
+Author: Vivid Quill <sjdoublec@gmail.com>
+Date:   Tue May 23 13:17:48 2023 -0500
+
+    added CSS to project
+
+[33mcommit eb6d1291279ec5672b2e529b6feb6b7ff4ade383[m
+Merge: ef9271f 10d72ee
+Author: Scott-J-Clarke <133802723+Scott-J-Clarke@users.noreply.github.com>
+Date:   Mon May 22 11:21:01 2023 -0500
+
+    Merge pull request #7 from Scott-J-Clarke/feature/starter-code
+    
+    -m "changes to html"
+
+[33mcommit 10d72eeaaab2f9ab249b13cdca236dfdc36b771b[m
+Author: Vivid Quill <sjdoublec@gmail.com>
+Date:   Mon May 22 10:53:33 2023 -0500
+
+    -m "changes to html"
+
+[33mcommit ef9271fa62dc03e5b0d3589c74078a008a5fa9ca[m[33m ([m[1;31morigin/feature/add-html[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeature/add-html[m[33m)[m
+Merge: 06aca34 2496e79
+Author: Scott-J-Clarke <133802723+Scott-J-Clarke@users.noreply.github.com>
+Date:   Fri May 19 11:45:26 2023 -0500
+
+    Merge pull request #6 from Scott-J-Clarke/feature/starter-code
+    
+    add starter code for Prework project
+
+[33mcommit 2496e79b7fa44e1f80c3081d870cbeaa46bcd5ba[m
+Author: Vivid Quill <sjdoublec@gmail.com>
+Date:   Fri May 19 10:11:41 2023 -0500
+
+    add starter code
+
+[33mcommit 06aca348144c1a476c0a143b1b8cdf9e58972f05[m
+Author: Scott-J-Clarke <133802723+Scott-J-Clarke@users.noreply.github.com>
+Date:   Thu May 18 12:53:24 2023 -0500
+
+    Initial commit
